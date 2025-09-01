@@ -1,1 +1,1 @@
-# Raspisanie
+# Raspisanie - это мой сайт с расписанием
